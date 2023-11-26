@@ -1,4 +1,4 @@
-# ANALYSIS-ON-NTEFLIX-MOVIES
+# ANALYSIS-ON-NETFLIX-MOVIES
 
 This python analysis is based on the Netflix Movies Data having different parameters explained below:
 1. title --> the title of the movie or show is describe in this field.
